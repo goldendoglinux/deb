@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: GoldenDog
+Label: GoldenDogLinux-Repo
+Codename: stable
+Date: Mon, 05 Jan 2026 23:43:27 UTC
+Architectures: amd64
+Components: main
+Description: GoldenDog Linux Official Repository
+MD5Sum:
+ 516f03db166b9333cfd1a66412a3db10 864 main/binary-amd64/Packages
+ a4a76e4bcb75f1f1b4eb41ada8d5ab71 576 main/binary-amd64/Packages.gz
+ 565b74b17d15f65fda35acc75c5d88b8 130 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 2539e19cf05f03c39b8c981a36bd0c26 131 main/source/Release
+SHA1:
+ ac83a7080fc965e797f70aa616b2e84c7620f07d 864 main/binary-amd64/Packages
+ 7c43813c521c23a1725b81582dcc389dd2495a4f 576 main/binary-amd64/Packages.gz
+ 5f1f5131be6e08aa055ed4a9a22c422e50f1d8d2 130 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ f4d94b0405b31338c3004f011f957d24487286c2 131 main/source/Release
+SHA256:
+ 821a88d06da383ff2d0bb2cc67d44f500b70f69e9f02805bd5061d2e4ffbdfd6 864 main/binary-amd64/Packages
+ 11f7bd372047285cd54a9c19aafca0b7f319bbb761be3f462699378f5fd825b5 576 main/binary-amd64/Packages.gz
+ 00a79644a0bd46f408c2bca5c8fb8eb4188a2b4c143efe8642a04a9ac2a7e049 130 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 7117f8895ccfb39dca76e965bbe0fe6bf8fa02704d2e7e8b75038c517b7f0b75 131 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEucDANkwRFiUYf8ELAiwC2txLNcEFAmlcTKAACgkQAiwC2txL
+NcEXTA//ViPe8AsYi/ToICN9uVi3GjsDMfbD17OqVBLwBmJ9S+r1Lgwx7bYnz9gN
+UkN2icm4HYHtrx68rPJROpChIZl5shJIKiATYPv29F+C6+83aWp4w4iiABzpnSWu
+V7fuBWyTx6KcaY0v/PepD+5svIA2DZXl3oP4dMBA1+lLm7whpQnmGEiIoQelF9iM
+qoluwHdaD5ZObLCNVFlOtUayACaBqq54ndCH8+96vn/XO+Bv1kTMMs8iv/TAxpCb
+RQhSLQz18oBfxKxQMbUDkdTyEuzNUO1inrshFB4LzSy1wkBmch3YzXjDzCQhdvsL
+pCID99IDLRjN/qKQxei+9yJdopFqJzbMSxsTM58QYx4SBNNv0hrbhtiyMz5tL5jH
+XlmwiD5Twf3DjU4EZdXJpV54kc+L7MHFRB1AcayQFM6NwCHUZDdOcxbvqxKW+3cn
+m33t4/ueB2kBf5ri5D5Okg8xBAbkSVE7wue9ZVtbeeY3hptgY/aDeVA+xyG9wX3j
+/l0AH2AyPX2+tAPrJFXEgwymN4wKY6PRlevk3w3460I4QIlQfrtjRlaUNLexDamd
+TLlVtJUtsPS46pvPZjVVGL5a6cZ8IhlIe2ooxKRfX8enOGGRtYq1HCLUjJuInHXM
+IRdTYvYvJTSJOFv8vaNbp07rikIBE699c6RreoVqYTReTDpgaK4=
+=udaT
+-----END PGP SIGNATURE-----
