@@ -22,3 +22,22 @@ Description: First-boot welcome screen for GoldenDog Linux
   - Telemetry configuration (KDE Plasma and Debian popularity-contest)
   - Clean, responsive Adwaita design
 
+Package: neofetch-c
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Alexia Michelle <alexia@goldendoglinux.org>
+Installed-Size: 334
+Depends: libc6 (>= 2.34)
+Homepage: https://github.com/alexiarstein/neofetch-c
+Priority: optional
+Section: misc
+Filename: pool/main/n/neofetch-c/neofetch-c_0.1.0_amd64.deb
+Size: 79492
+SHA256: 3e0b08262dadfa27e51a3783efe67ad0fce48d508cb008ae9df96e31f6759d1c
+SHA1: fac4870060aa42c200c1fe61c8c26a0dd0b1fb45
+MD5sum: ad7decc919a38702ba7ede336d0e8dc8
+Description: Fast system information tool with ASCII art
+ Neofetch-C is a fast reimplementation of the neofetch system information
+ utility in C. It displays key system details alongside colorful ASCII art
+ logos for your distribution, optimized for speed and low resource usage.
+
