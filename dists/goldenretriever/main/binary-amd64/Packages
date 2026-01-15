@@ -1,16 +1,16 @@
 Package: antigravity-installer
-Version: 1.0.1
+Version: 1.0.2
 Architecture: all
 Maintainer: Alexia Michelle <alexia@goldendoglinux.org>
 Installed-Size: 17
 Depends: curl, gnupg, apt-transport-https, ca-certificates, libnotify-bin
 Priority: optional
 Section: misc
-Filename: pool/main/a/antigravity-installer/antigravity-installer_1.0.1_all.deb
-Size: 3304
-SHA256: 1bbdeebe88f1ab2dfb9a28f1254b0cbd163ba2d975fa82f10fd3d330b6aefcf3
-SHA1: 37ce096cfc3a898a3edc3e57d2aa3b162b3400c0
-MD5sum: 4be69e98770e179ba9b0a806d8b23688
+Filename: pool/main/a/antigravity-installer/antigravity-installer_1.0.2_all.deb
+Size: 3344
+SHA256: 08d8f368b5c14bcbd978bca0070c0ae3ebe411bd8018c90aab62d4646f596737
+SHA1: 4a46dfa22fe62fc70f38f0925e9d57ee9e767ee7
+MD5sum: 9b53fb3d2d1f6cff5bf9d0cc0e84084c
 Description: Unofficial Antigravity repo helper (GoldenDog Linux)
  This is an unofficial helper package for Antigravity, intended for
  GoldenDog Linux users. It is NOT endorsed by Google in any way.

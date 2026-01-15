@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: GoldenDog
 Label: GoldenDogLinux-Repo
 Codename: goldenretriever
-Date: Thu, 15 Jan 2026 01:55:12 UTC
+Date: Thu, 15 Jan 2026 02:03:28 UTC
 Architectures: amd64
 Components: main
 Description: GoldenDog Linux 2 (Golden Retriever)
 MD5Sum:
- 5c12999bff0ddfd579a75bfc9d055649 4086 main/binary-amd64/Packages
- d6a71c427659fac7c0eed9ed076ad6c2 1846 main/binary-amd64/Packages.gz
+ ba111ffc9337cd145d8e6482e4b84c14 4086 main/binary-amd64/Packages
+ 8afbfe4d03b8af14192648adc0891831 1856 main/binary-amd64/Packages.gz
  9d3287710652aad16857b1b4a8c5fe83 131 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  63e59dc48a131220b9be9d16a830cde2 132 main/source/Release
 SHA1:
- 1035de0a96918c8075cacb66bf9fcc07a95032ba 4086 main/binary-amd64/Packages
- de169d60fc7d3c53c00766856289021578553393 1846 main/binary-amd64/Packages.gz
+ aa3329a27189f99273e223060890e9bfdb5b4b9f 4086 main/binary-amd64/Packages
+ 9ddde8324df3c7e90c94d1ebb76ca4ae3f55a595 1856 main/binary-amd64/Packages.gz
  fc1f228b2b2bee42be94e633a54fec7e6e1ccd3f 131 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  d6c61b8eeba6b79d53af3770f4ef8a9224f8f73f 132 main/source/Release
 SHA256:
- 3ea0a79e5234d8c6e980ae7536c5c653c909946a6f0c67f32655fb63b7a35a89 4086 main/binary-amd64/Packages
- e959093de3c8dfd31234863207c65f8988eae840a122945a1e1db33bc27fe97e 1846 main/binary-amd64/Packages.gz
+ 7b7aad74f189c11c9c8358168e644e7c4856086ec7b19cf22383dd24e072bd62 4086 main/binary-amd64/Packages
+ 5c1b0ad58e62fe7d9c8d6d9208a45a23774d6e390595e41520f3b08a43495fe3 1856 main/binary-amd64/Packages.gz
  b46d4aa7b5e5aa7dad9caa1e0ba9b525f7fc278d572c120a6b63335ff16895c4 131 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  0b47fdfcdaba753facc7d8900bd6b7efc6f24366955837e05deea152d6810256 132 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEucDANkwRFiUYf8ELAiwC2txLNcEFAmloSQMACgkQAiwC2txL
-NcHL0Q//RBVZrmt4LoJa5rgJSo9epcALlu4+h2gUg+fiFg1BuANZpQZlEw/qQzip
-eFDx1uMjgE1VoziaJcRr7wj/DgI4I6WH2RA9uRYQEucuZs0lkbg8xSXjTRst31Ij
-A6JwORkW+ZKa1F+WWgqSE7Afg4cYbokoifBIWGDVskfBGhmOY5P8Vwv0WX9q5+C9
-Y5sV4ltPyM9Or7UOIlmj8O7n/Cut1zTAwi3LX2xusFlCeoHCCugwJF8101oidXrp
-1yI89Ou5CMhrKZbszzXXyOyAMg4N9Zu0N6MIHsoL3pp0kv52b4G2O77EpYRcAj98
-Dg5qOXUKp2xV/IG8irVHzsMfyyI3UY+kXylVsU8Mdfc0EoBY2VxdG9/aJYrKE6Cz
-QfkFAS/6nfSYonGUdNodKhPFDRs80hrBptH2h7w8woJuawWzyHIWIUdrCo2B5L3p
-48/de4EbdIQCqkSR8XbFapFx4EmQvh1mxoJQE5ELD1EcvA1ewSEDnQvoC9uzP57G
-RSiqLwHPEB2hjhe2u7PxBw7lx3x7mfcIrYDquI2xCFsq19Fo6XRR7XiL0chMy+Yx
-+rvS/35xYtuih9HyQPOXYO3LURN09OD7xGe77o3sc4LWsKsHzArPYKAodyJfs7Ca
-vZe5R7ADi30FCXOeLdpFP7la4VyBB0pHDEyb0LdGRo3I6RExQD8=
-=wLfD
+iQIzBAEBCgAdFiEEucDANkwRFiUYf8ELAiwC2txLNcEFAmloSvAACgkQAiwC2txL
+NcEqHg/+LY78ghWjzDt/KLrp2N24c15zJyqZDRcynJCh7z/pafaBvGiMXI+5j88W
+yl+SMcG22MmYcTHBP0UPHPLXGs9LVAsB0s8LUFkpkRH5FoeNAQXODi4d3qkVUDie
+0f+Uyrghy3q8tEqGQyl5O2a7UVUTtUwoql7J5SvIVAiwpGe6z74k8wIIc6BOOyph
+99Mm+JbGO8deMp7kck6vBV7PQxjZNoWp3EHk19hr7NE8ZwcJKsYVhQ1XCF5NMYj2
+of6usEPwTesr6dwiOe59DaUjJejmBJN/WCSv6bB32AVnAYL1ldjH1UZEEUUVLh/l
+lArDhGJ6OZUTMPcJ6+JsqyvTLsXPQSnR7Iwjakh2Utn8PXQZRiNyWwnvkDVJjl73
+UvrTfPw/GRHW9S3JKyyoQt9OlCbkKfzD7H9Sibz1jC4vmflzEhiz2+iLGUSRybvp
+0QarnTws/qKKvu+FECSCTj1pNe1mn/5nkwY8fb6vxr/pErjVdL2T5atUVE/6zjMW
+Vt5eKsnqwohTzM5mbGg3CguG18pWz/6ZSc8HEwN+tTCNSKKkiBnGX7wqv8rGCdnL
+mz93uHJFthcOVEFB6yJZ9vhJiE/PrhQc515dNb8tvmDJWSqLFXA5ui0Px0UfqRGg
+PscP0sCBKDottZP7WVqlJ/aHhqJXtvC5voG8gT6TZgkkEHQ68zM=
+=GfLa
 -----END PGP SIGNATURE-----
